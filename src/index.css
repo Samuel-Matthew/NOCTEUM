@@ -187,6 +187,7 @@ button,
 input:where([type="button"]),
 input:where([type="reset"]),
 input:where([type="submit"]) {
+  appearance: button;
   -webkit-appearance: button;
   background-color: #0000;
   background-image: none;
@@ -213,6 +214,7 @@ progress {
 }
 
 [type="search"] {
+  appearance: textfield;
   -webkit-appearance: textfield;
   outline-offset: -2px;
 }
@@ -222,6 +224,7 @@ progress {
 }
 
 ::-webkit-file-upload-button {
+  appearance: button;
   -webkit-appearance: button;
   font: inherit;
 }
@@ -304,7 +307,6 @@ audio,
 iframe,
 embed,
 object {
-  vertical-align: middle;
   display: block;
 }
 
@@ -2250,7 +2252,7 @@ body {
   }
 }
 
-.hover\:border-\[var\(--text-secondary\)\]: hover {
+.hover\:border-\[var\(--text-secondary\)\]:hover {
   border-color: var(--text-secondary);
 }
 
@@ -2263,11 +2265,11 @@ body {
   border-color: #0000;
 }
 
-.hover\:bg-\[var\(--accent\)\]: hover {
+.hover\:bg-\[var\(--accent\)\]:hover {
   background-color: var(--accent);
 }
 
-.hover\:bg-\[var\(--bg-primary\)\]: hover {
+.hover\:bg-\[var\(--bg-primary\)\]:hover {
   background-color: var(--bg-primary);
 }
 
@@ -2295,7 +2297,7 @@ body {
   background-color: rgb(185 28 28 / var(--tw-bg-opacity, 1));
 }
 
-.hover\:text-\[var\(--bg-primary\)\]: hover {
+.hover\:text-\[var\(--bg-primary\)\]:hover {
   color: var(--bg-primary);
 }
 
@@ -2337,7 +2339,7 @@ body {
   opacity: 0.8;
 }
 
-.focus\:border-\[var\(--accent\)\]: focus {
+.focus\:border-\[var\(--accent\)\]:focus {
   border-color: var(--accent);
 }
 
