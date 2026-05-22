@@ -109,7 +109,7 @@ export const products: Product[] = [
       base: ["Ambergris", "Cedar", "Musk"],
     },
     image:
-      "https://readdy.ai/api/search-image?query=minimal+luxury+cologne+bottle+blue+liquid+clear+glass+against+soft+gray+background+studio+lighting+elegant+fragrance+product+photography+high+end&ref=&width=600&height=750&seq=5&orientation=portrait",
+      "https://readdy.ai/api/search-image?query=luxury%20perfume%20bottle%20with%20deep%20red%20liquid%20on%20dark%20background%20elegant%20glass%20design%20studio%20lighting%20high%20end%20fragrance%20product%20photography%20warm%20amber%20highlights&width=600&height=750&seq=3&orientation=portrait",
     relatedIds: ["citrus-ducale", "noir-vetiver"],
   },
   {
@@ -128,7 +128,7 @@ export const products: Product[] = [
       base: ["Musk", "Vanilla", "Amber"],
     },
     image:
-      "https://readdy.ai/api/search-image?query=artisan+luxury+fragrance+bottle+warm+cream+colored+liquid+elegant+glass+design+dark+background+studio+lighting+high+end+product+photography&ref=&width=600&height=750&seq=6&orientation=portrait",
+      "https://readdy.ai/api/search-image?query=luxury%20perfume%20bottle%20with%20deep%20red%20liquid%20on%20dark%20background%20elegant%20glass%20design%20studio%20lighting%20high%20end%20fragrance%20product%20photography%20warm%20amber%20highlights&width=600&height=750&seq=3&orientation=portrait",
     relatedIds: ["noir-vetiver", "citrus-ducale"],
   },
   {
@@ -147,7 +147,7 @@ export const products: Product[] = [
       base: ["White Musk", "Sandalwood", "Amber"],
     },
     image:
-      "https://readdy.ai/api/search-image?query=minimal+deodorant+stick+packaging+luxury+design+white+and+gold+dark+background+studio+lighting+elegant+product+photography+high+end+beauty&ref=&width=600&height=750&seq=7&orientation=portrait",
+      "https://readdy.ai/api/search-image?query=luxury%20perfume%20bottle%20with%20deep%20red%20liquid%20on%20dark%20background%20elegant%20glass%20design%20studio%20lighting%20high%20end%20fragrance%20product%20photography%20warm%20amber%20highlights&width=600&height=750&seq=3&orientation=portrait",
     relatedIds: ["obsidian-rose", "bois-sauvage"],
   },
   {
@@ -166,7 +166,7 @@ export const products: Product[] = [
       base: ["Oakmoss", "Vetiver", "Musk"],
     },
     image:
-      "https://readdy.ai/api/search-image?query=luxury+deodorant+packaging+dark+green+and+black+minimal+design+studio+lighting+elegant+product+photography+high+end+men+grooming&ref=&width=600&height=750&seq=8&orientation=portrait",
+      "https://readdy.ai/api/search-image?query=luxury%20perfume%20bottle%20with%20deep%20red%20liquid%20on%20dark%20background%20elegant%20glass%20design%20studio%20lighting%20high%20end%20fragrance%20product%20photography%20warm%20amber%20highlights&width=600&height=750&seq=3&orientation=portrait",
     relatedIds: ["fleur-nocturne", "noir-vetiver"],
   },
   {
@@ -185,7 +185,7 @@ export const products: Product[] = [
       base: ["Sandalwood", "Amber", "Musk"],
     },
     image:
-      "https://readdy.ai/api/search-image?query=luxury+deodorant+packaging+warm+amber+gold+tones+minimal+design+studio+lighting+elegant+product+photography+high+end+beauty+fragrance&ref=&width=600&height=750&seq=9&orientation=portrait",
+      "https://readdy.ai/api/search-image?query=luxury%20perfume%20bottle%20with%20deep%20red%20liquid%20on%20dark%20background%20elegant%20glass%20design%20studio%20lighting%20high%20end%20fragrance%20product%20photography%20warm%20amber%20highlights&width=600&height=750&seq=3&orientation=portrait",
     relatedIds: ["velvet-ember", "fleur-nocturne"],
   },
 ];
